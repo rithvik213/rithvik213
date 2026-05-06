@@ -1,4 +1,4 @@
-![banner](assets/banner-v3.jpg)
+![banner](assets/banner-v4.jpg)
 
 # 💫 About Me
 I'm Rithvik Nakirikanti, a Software Engineer 2 at **Oracle Cloud Infrastructure**, where I build and scale distributed systems that power cloud workloads. I work across the stack — from backend services and infra to ML/AI and mobile (iOS & Android) — and I gravitate toward projects that sit at the intersection of all three. Outside of work, I'm usually shipping side projects, reading papers, or chasing down a new framework that caught my eye.
