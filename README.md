@@ -25,10 +25,10 @@ I'm Rithvik Nakirikanti, a Software Engineer 2 at **Oracle Cloud Infrastructure*
 
 ## 🚀 Featured Projects
 
-- **[BPL RAG Search](https://rntech.org/portfolios)** — Retrieval-augmented search pipeline over 1.2M+ Boston Public Library records, combining `pgvector` semantic search with BM25 reranking and GPT-4o-mini for query expansion.
-- **[Automation Snowflake Harness](https://rntech.org/portfolios)** — Capstone with State Street: CI/CD automation for Snowflake resource management with RBAC and auto-scaling, built on Liquibase + Harness.
-- **[TripPlanner](https://rntech.org/portfolios)** — Personalized travel app with Google Calendar sync, real-time navigation, and location-based recommendations.
-- **[Timo](https://rntech.org/portfolios)** — Time management app with Google Calendar integration, real-time travel tracking, and weather-based reminders.
+- **[BPL RAG Search](https://github.com/BU-Spark/ml-bpl-rag)** — Retrieval-augmented search pipeline over 1.2M+ Boston Public Library records, combining `pgvector` semantic search with BM25 reranking and GPT-4o-mini for query expansion.
+- **[Automation Snowflake Harness](https://github.com/EC528-Fall-2024/automation-snowflake-harness)** — Capstone with State Street: CI/CD automation for Snowflake resource management with RBAC and auto-scaling, built on Liquibase + Harness.
+- **[TripPlanner](https://github.com/rithvik213/TripPlanner)** — Personalized travel app with Google Calendar sync, real-time navigation, and location-based recommendations.
+- **[Timo](https://github.com/Fung-Sean/Timo)** — Time management app with Google Calendar integration, real-time travel tracking, and weather-based reminders.
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rithvik213&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
