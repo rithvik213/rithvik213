@@ -24,11 +24,10 @@ I'm Rithvik Nakirikanti, a Software Engineer 2 at **Oracle Cloud Infrastructure*
 ![Swift](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 🚀 Featured Projects
-> _Replace these with your top pinned repos — keep the one-liners punchy._
 
-- **[Project One](https://github.com/rithvik213/project-one)** — One-line hook describing what it does and why it's interesting.
-- **[Project Two](https://github.com/rithvik213/project-two)** — One-line hook.
-- **[Project Three](https://github.com/rithvik213/project-three)** — One-line hook.
+- **[BPL RAG Search](https://rntech.org/portfolios)** — Retrieval-augmented search pipeline over 1.2M+ Boston Public Library records, combining `pgvector` semantic search with BM25 reranking and GPT-4o-mini for query expansion.
+- **[Automation Snowflake Harness](https://rntech.org/portfolios)** — Capstone with State Street: CI/CD automation for Snowflake resource management with RBAC and auto-scaling, built on Liquibase + Harness.
+- **[RAMDISK Filesystem Kernel Module](https://rntech.org/portfolios)** — In-memory Linux filesystem implemented as a kernel module in C, with fast file and directory operations.
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rithvik213&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
